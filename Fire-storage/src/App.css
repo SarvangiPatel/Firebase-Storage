@@ -1,0 +1,37 @@
+
+form input{
+  height: 40px;
+  width: 90%;
+}
+
+form select{
+  height: 40px;
+  width: 90%;
+}
+
+form button{
+  height: 40px;
+  width: 90%;
+  background-color: black;
+  border: 1px solid black;
+  color: white;
+}
+
+
+.product{
+  height: 500px;
+  width: 350px;
+  border: 1px solid grey;
+  margin: 10px 10px;
+  text-align: center;
+}
+.product button{
+
+  height: 40px;
+  width: 90%;
+  background-color: black;
+  border: 1px solid black;
+  color: white;
+  margin: 10px 10px;
+
+}
